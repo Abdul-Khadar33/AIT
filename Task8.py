@@ -55,3 +55,4 @@ if __name__ == "__main__":
     print(f"Graph 3 with {max_colors3} colors:")
     solve_graph_coloring(graph3, max_colors3)
 
+
