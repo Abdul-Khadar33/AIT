@@ -61,3 +61,4 @@ if __name__ == "__main__":
             print(f"No path found from {start} to {goal}.")
             print("Available nodes:", list(G.nodes()))
             print("Available edges:", list(G.edges()))
+
