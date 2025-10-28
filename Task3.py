@@ -14,3 +14,4 @@ for vertex, edges in graph.items():
 total_cost //= 2
 print(f"\ntotal cost of edges: {total_cost}")
 
+
